@@ -1,4 +1,3 @@
-# first-program-cv
 <ol>
     <li><a href="https:/smashthewalls.com">Smash The Walls</a></li>
     <li><a href="https:/Producthunt.com">Prouduct Hunt</a></li>
